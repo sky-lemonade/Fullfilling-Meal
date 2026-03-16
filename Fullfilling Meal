@@ -1003,6 +1003,15 @@ h5.fandoms a.tag {
   box-shadow: none;
 }
 
+body,
+.secondary,
+.dropdown {
+  background: #cad588;
+  color: #3b4a24;
+  border: #749140;
+  box-shadow: #749140;
+}
+
 p.footnote a {
   color: #db532c !important;
 }
