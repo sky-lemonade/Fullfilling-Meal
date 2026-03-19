@@ -1021,6 +1021,7 @@ a:link.current,
   background: #f8dba8;
   border-color: #db532c;
   box-shadow: none;
+  font-family: "Garamond", "Baskerville", "Georgia", "Times New Roman", serif !important;
 }
 
 p.footnote a {
