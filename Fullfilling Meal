@@ -1012,6 +1012,17 @@ body,
   box-shadow: #749140;
 }
 
+.actions a:active,
+.current,
+a.current,
+a:link.current,
+.current a:visited {
+  color: #3b4a24;
+  background: #f8dba8;
+  border-color: #db532c;
+  box-shadow: none;
+}
+
 p.footnote a {
   color: #db532c !important;
 }
