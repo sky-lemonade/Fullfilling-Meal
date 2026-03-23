@@ -890,10 +890,6 @@ li.blurb,
   border: 1px dashed #3b4a24;
 }
 
-.icon {
-  border: 2px solid #fff;
-}
-
 .workskin .notes,
 dl.meta,
 .reading h4.viewed,
