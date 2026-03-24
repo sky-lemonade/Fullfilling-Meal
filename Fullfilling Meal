@@ -1023,3 +1023,8 @@ a:link.current,
 p.footnote a {
   color: #db532c !important;
 }
+
+li.previous span.disabled,
+li.next span.disabled {
+  display: none;
+}
