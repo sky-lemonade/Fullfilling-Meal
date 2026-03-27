@@ -620,6 +620,11 @@ a.tag:focus,
               0 2px  4px rgba(0, 0, 0, 0.05) !important;
 }
 
+#dashboard a {
+  color: #3b4a24;
+  border: 1px solid transparent;
+}
+
 #dashboard:not(.own) {
   background: #F3E9E0 !important;
   border: none !important;
