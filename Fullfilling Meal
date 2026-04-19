@@ -762,8 +762,11 @@ div.dynamic,
 }
 
 .comment div.icon {
+  background: #cad588;
   border-bottom: 5px solid #cad588;
   border-right: 1px solid #cad588;
+  border-left: 1px solid #cad588;
+  border-radius: 10%;
 }
 
 .flash,
